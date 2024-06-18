@@ -1,7 +1,3 @@
-Certainly! Here is a README file for your C++ gambling game:
-
----
-
 # CASINO GAME
 
 Welcome to the Casino Game! This simple console-based game allows players to test their luck by guessing numbers and potentially winning (or losing) virtual money. 
